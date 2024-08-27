@@ -1,0 +1,8 @@
+3 4
+hello
+world
+I think
+python
+is
+very
+easy
